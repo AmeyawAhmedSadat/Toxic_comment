@@ -1,0 +1,22 @@
+
+#some file
+Ahmed_Industry_project
+Ahmed_Industry_project.pub
+
+#Other codes
+
+# Ignore specific notebook files
+hometask_2_Tweet_Sentiment_Competition_2024 - Copy.ipynb
+nlp-preprocessing-feature-extraction-methods-a-z.ipynb
+stop-the-s-toxic-comments-eda.ipynb
+text_preprocessing.ipynb
+sample_submission.csv
+* .ipynb_checkpoints/
+
+# ignore checkpoints
+.ipynb_checkpoints/Ahmed_Industry_project-checkpoint
+.ipynb_checkpoints/Ahmed_Industry_project-checkpoint.pub
+.ipynb_checkpoints/hometask_2_Tweet_Sentiment_Competition_2024 - Copy-checkpoint.ipynb
+.ipynb_checkpoints/stop-the-s-toxic-comments-eda-checkpoint.ipynb
+.ipynb_checkpoints/text_preprocessing-checkpoint.ipynb
+

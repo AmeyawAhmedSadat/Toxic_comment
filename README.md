@@ -4,7 +4,7 @@ A class project for classifying toxic comments
 #### Project Description: 
 Online platforms often face challenges in maintaining respectful and productive discussions due to toxic comments, which can include threats, obscenity, insults, and identity-based hate. This project aims to build a machine learning model to identify and classify such toxic comments, helping platforms foster healthier interactions. The initiative builds upon research by the Conversation AI team at Jigsaw and Google, aiming to improve existing toxicity detection models.
 
-**These issues often lead to such Business problems":
+**These issues often lead to such Business problems**:
 
 
 - Online platforms are losing user engagement and participation due to toxic comments

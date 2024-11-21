@@ -22,5 +22,8 @@ sample_submission.csv
 
 train.csv
 test.csv
+<<<<<<< HEAD
 sample_submission.csv
 test_lables.csv
+=======
+>>>>>>> 39e7f03aa1b722f4d35d6b2e8d6354350f45d9da

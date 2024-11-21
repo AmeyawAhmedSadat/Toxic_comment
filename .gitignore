@@ -20,3 +20,5 @@ sample_submission.csv
 .ipynb_checkpoints/stop-the-s-toxic-comments-eda-checkpoint.ipynb
 .ipynb_checkpoints/text_preprocessing-checkpoint.ipynb
 
+train.csv
+test.csv

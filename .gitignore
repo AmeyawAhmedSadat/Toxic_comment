@@ -22,3 +22,5 @@ sample_submission.csv
 
 train.csv
 test.csv
+sample_submission.csv
+test_lables.csv
